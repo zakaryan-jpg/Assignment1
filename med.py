@@ -22,3 +22,5 @@ med = quick_sort(a)
 k = 32858
 
 print(med[k-1])
+
+
